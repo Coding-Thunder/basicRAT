@@ -1,3 +1,5 @@
+#An Amazing Project
+
 # basicRAT
 
 This is a boilerplate Python RAT (Remote Access Trojan). I created this to maintain a bare-bones, clean design Python RAT with only essential features. My goal is to use basicRAT as a starting point to create other RATs that use various common-place protocols for C2.
